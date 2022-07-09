@@ -22,5 +22,6 @@
   "dependencies": {
     "babel": "^6.23.0",
     "pkg1": "^0.0.1-alpha.0"
-  }
+  },
+  "gitHead": "43f570344d24a7ff24273c0cbd3830c88145f8aa"
 }
